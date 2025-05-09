@@ -1,16 +1,25 @@
 ## Hello World 👋 👾
 
-<!--
-**NiftyAndy/NiftyAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andrew Mahoney-Fernandes**, **Co-Founder/CEO [@NiftyLeague](https://github.com/NiftyLeague)** game studio!  
+I lead Web3 product and engineering efforts across our platform and games.  🎮
 
-Here are some ideas to get you started:
+### 🚀  What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Nifty League, we develop multiplayer games and dev tools that help indie studios launch efficiently.
+
+- ⚙️  Designing scalable, real-time game networking systems
+- 🧱  Building open, player-governed game economies
+- 🎮  Helping independent studios launch faster on our battle-tested framework
+
+### 🎮  Where I’ve been
+
+Previously, a **DevOps Engineer [@Activision](https://github.com/Activision)**, I supported live operations for one of the biggest titles in gaming — **Call of Duty**!  🪖
+
+While much of my work was behind the scenes, here are a few snapshots showing my contributions under the hood:
+
+![Activision contributions](./img/activision_contributions.png)  
+![Activision repo insights](./img/activision_repo_insights.png)
+
+---
+
+🛠️ Always shipping.
