@@ -17,8 +17,12 @@ Previously, a **DevOps Engineer [@Activision](https://github.com/Activision)**, 
 
 While much of my work was behind the scenes, here are a few snapshots showing my contributions under the hood:
 
-![Activision contributions](./img/activision_contributions.png)  
-![Activision repo insights](./img/activision_repo_insights.png)
+<div align="center">
+  <img src="./img/activision_contributions.png" alt="Activision contributions" width="600" height="auto">
+</div>
+<div align="center">
+  <img src="./img/activision_repo_insights.png" alt="Activision repo insights" width="600" height="auto">
+</div>
 
 ---
 
